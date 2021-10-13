@@ -1,0 +1,24 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "\"# Hangman\" \r \"# Hangman\"",
+  "source": "./index.html",
+  "scripts": {
+    "start": "rm -rf dist/ && parcel",
+    "build":"rm -rf dist/ && parcel build "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedadel2020-code/Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedadel2020-code/Hangman/issues"
+  },
+  "homepage": "https://github.com/ahmedadel2020-code/Hangman#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
